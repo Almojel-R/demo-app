@@ -10,6 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Raghad's first github project with travis!
+            SWE550 Demo
           </p>
           <a
             className="App-link"

@@ -19,6 +19,6 @@ deploy:
     branch: main
 
 notifications:
-  email:
-    - 442204622@student.ksu.edu.sa
-    - raghadalmojil@gmail.com    
+  email: raghadalmojil@gmail.com    
+
+   

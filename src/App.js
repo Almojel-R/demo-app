@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Raghad's first github project with travis!
+           Rimah's first github project with travis!
             SWE550 Demo
           </p>
           <a

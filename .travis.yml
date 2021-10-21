@@ -17,3 +17,8 @@ deploy:
   local_dir: build
   on:
     branch: main
+
+notifications:
+  email:
+    - 442204622@student.ksu.edu.sa
+    - raghadalmojil@gmail.com    
